@@ -1,0 +1,9 @@
+# 田纳西州报税计算器依赖
+# Tennessee Tax Calculator Dependencies
+
+# 核心依赖为Python标准库，无需额外安装
+
+# 开发和测试依赖 (可选)
+# pytest>=7.0.0  # 用于运行测试
+# black>=22.0.0  # 代码格式化
+# pylint>=2.12.0  # 代码质量检查
